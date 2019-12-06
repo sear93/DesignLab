@@ -290,3 +290,18 @@ body {
     bottom: 20px;
   }
 }
+
+@media screen and (max-width: 440px) {
+  .about fieldset legend {
+    padding: 0 10px;
+  }
+  .services .wrapper fieldset legend {
+    padding: 0 10px;
+  }
+  .whatwedoo .wrapper fieldset legend {
+    padding: 0 10px;
+  }
+  .contact fieldset legend {
+    padding: 0 10px;
+  }
+}
